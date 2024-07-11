@@ -2,13 +2,13 @@ import {
   getApiBaseUrl,
   HTTP_METHODS,
   requestExecutor
-} from '../src/request-executor'
+} from './request-executor'
 import {
   IReply,
   ApiError,
   ApiHelperHandler,
   ApiHelper
-} from '../src/api-helper'
+} from './api-helper'
 export {
   getApiBaseUrl,
   HTTP_METHODS,
